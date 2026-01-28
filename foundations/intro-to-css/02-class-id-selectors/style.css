@@ -1,5 +1,6 @@
 .alpha {
     background-color: #FF98FC;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
 }
 
 #apple {
@@ -9,19 +10,10 @@
 
 #banana {
     font-size: 24px;
-    font-family: sans-serif;
 }
 
 #cat {
     background-color: #68F77E;
     font-size: 24px;
     font-weight: bold;
-}
-
-#dog {
-    font-family: sans-serif;
-}
-
-#elephant {
-    font-family: verdana;
 }
