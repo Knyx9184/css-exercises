@@ -1,1 +1,27 @@
-/* Add CSS Styling */
+.alpha {
+    background-color: #FF98FC;
+}
+
+#apple {
+    color: #2738f5;
+    font-size: 36px;
+}
+
+#banana {
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+#cat {
+    background-color: #68F77E;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#dog {
+    font-family: sans-serif;
+}
+
+#elephant {
+    font-family: verdana;
+}
